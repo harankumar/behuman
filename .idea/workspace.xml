@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f6d52b33-f281-4a28-9c26-370412e176f2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/volunteer.html" afterPath="$PROJECT_DIR$/volunteer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BeHuman.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,8 +66,8 @@
       <file leaf-file-name="volunteer.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/volunteer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.4979253">
+              <caret line="20" column="354" selection-start-line="20" selection-start-column="354" selection-end-line="20" selection-end-column="354" />
               <folding />
             </state>
           </provider>
@@ -595,8 +594,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/volunteer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.4979253">
+          <caret line="20" column="354" selection-start-line="20" selection-start-column="354" selection-end-line="20" selection-end-column="354" />
           <folding />
         </state>
       </provider>
